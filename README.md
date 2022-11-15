@@ -1,4 +1,4 @@
-# United States Marine Corps - Fast, Agile, and Open: Enhanced AI/ML Capabilities with MongoDB
+# Fast, Agile, and Open: Enhanced AI/ML Capabilities with MongoDB
 **Project Outline**
 - data_vis.ipynb: Jupyter notebook with walkthrough of connecting to a MongoDB instance with AI/ML analyzed Aerial Ship data for analysis.
 - ship_analysis.json: full dataset of metadeta embedded documents
